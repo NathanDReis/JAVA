@@ -1,6 +1,6 @@
 package com.nathan.cursojava.aula12;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class LeituraDadosTeclado {
 

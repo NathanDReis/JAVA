@@ -46,7 +46,7 @@ public class Matriz {
 		}
 		
 		// Outra forma de criar com os valores na inicialização
-		double[] notasAluno1 = {7, 8, 9, 10};
+		// double[] notasAluno1 = {7, 8, 9, 10};
 		double[][] notasAlunos2 = {{7, 8, 9, 10}, {8, 6, 7, 10}};
 		
 		// Percorrendo cada posição da matriz
